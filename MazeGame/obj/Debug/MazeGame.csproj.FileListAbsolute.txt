@@ -1,0 +1,8 @@
+c:\users\christina\documents\visual studio 2015\Projects\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+c:\users\christina\documents\visual studio 2015\Projects\MazeGame\MazeGame\obj\Debug\MazeGame.csprojResolveAssemblyReference.cache
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\MazeGame\MazeGame\obj\Debug\MazeGame.csprojResolveAssemblyReference.cache
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
